@@ -192,7 +192,7 @@ input:focus{
 }
 
 
-input:required{
+input:invalid{
     border-color: rgb(181, 0, 0);
 }
 /* footer */
