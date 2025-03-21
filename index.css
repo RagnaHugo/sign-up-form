@@ -195,3 +195,10 @@ input:focus{
 input:required{
     border-color: rgb(181, 0, 0);
 }
+/* footer */
+
+footer{
+    text-align: center;
+    padding-bottom: 20px;
+    color: rgb(202, 202, 202);
+}
